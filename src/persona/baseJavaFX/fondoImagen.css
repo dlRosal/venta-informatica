@@ -1,0 +1,32 @@
+/* Estilos para todos los botones */
+Button {
+    -fx-font-weight: bold;
+    -fx-background-color: #09719E;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-family: "Arial";
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 12px;
+}
+Button:hover {
+ -fx-background-color: #87CEEB;
+}
+/*Fondo*/
+.root {
+    -fx-background-image: url("ima.png");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+}
+
+/*Titulo*/
+Label {
+    -fx-font-size: 48px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #f8f32b ;
+    -fx-effect: dropshadow(three-pass-box, #00825a, 10, 0, 0, 0);
+    -fx-background-color: #5353ec;
+    -fx-background-radius: 10px;
+    -fx-padding: 20px;
+    -fx-border-radius: 10px;
+}
+
