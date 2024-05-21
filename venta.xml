@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Venta>
+    <id>1</id>
+    <fecha>2024-05-21T19:27:22.711969300</fecha>
+    <Cliente>
+        <nombre>Juan</nombre>
+        <apellido>Perez</apellido>
+        <dni>12345678A</dni>
+    </Cliente>
+    <Vendedor>
+        <nombre>Ana</nombre>
+        <apellido>Garcia</apellido>
+        <dni>87654321B</dni>
+    </Vendedor>
+    <Productos>
+        <Producto>
+            <codigo>001</codigo>
+            <descripcion>Laptop</descripcion>
+            <cantidad>1</cantidad>
+        </Producto>
+        <Producto>
+            <codigo>002</codigo>
+            <descripcion>Mouse</descripcion>
+            <cantidad>2</cantidad>
+        </Producto>
+        <Producto>
+            <codigo>003</codigo>
+            <descripcion>Teclado</descripcion>
+            <cantidad>1</cantidad>
+        </Producto>
+        <Producto>
+            <codigo>004</codigo>
+            <descripcion>Ordena</descripcion>
+            <cantidad>1</cantidad>
+        </Producto>
+    </Productos>
+</Venta>
