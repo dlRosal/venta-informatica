@@ -31,6 +31,7 @@
     ```
     javac Main.java
     java Main
+    java JavaFx.java
     ```
 
 ## Estructura del Proyecto
