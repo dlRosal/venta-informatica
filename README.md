@@ -1,6 +1,6 @@
-# VentaInformatica
+# Venta Informatica
 
-**VentaInformatica** es un proyecto de gestión de ventas desarrollado en Java. Proporciona funcionalidades para gestionar productos, clientes, vendedores y el inventario de una tienda, integrando estilos mediante CSS para mejorar la experiencia del usuario.
+**Venta Informatica** es un proyecto de gestión de ventas desarrollado en Java. Proporciona funcionalidades para gestionar productos, clientes, vendedores y el inventario de una tienda, integrando estilos mediante CSS para mejorar la experiencia del usuario.
 
 ## Características
 
